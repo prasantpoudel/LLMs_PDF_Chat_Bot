@@ -1,7 +1,10 @@
 # Chat With PDF
 ![](Screenshot.png)
 The goal of the project is to ask any content present in the PDF. We can upload multiple Pdf and ask anything related to the pdf.
+# workFlow
+![](workflow.png)
 
+#Step
 Step To Run Locally...
 
 Step1> Clone this repo
